@@ -18,3 +18,14 @@ Voici donc un layout personnalisé pour écrire du français en QWERTY:
 * le symbole Euro est sur Alt-Right + 5 (assez standard sur beaucoup de claviers)
 * les caractères accentués majuscules sont accessibles de la même manière, mais en utilisant Alt-Right et Shift
 * la notion de deadkeys pour les accents est toujours utilisable, Alt-Right + (Shift) + backtick/tilde ou quote/double quote
+
+
+```
++---+---+
+| é | è |
++-+-+-+-+
+  | ê |
+  +-+-+-+
+    | ë |
+    +---+
+```
